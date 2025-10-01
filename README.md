@@ -11,9 +11,6 @@
 <br/>
 Modern Instagram-style Android app (UI only) built with Kotlin and Jetpack Compose — tailored for showcasing clean UI/UX patterns to programmers and employers.
 
-<br/>
-<img src="app/src/main/appicon-playstore.png" alt="App Icon" width="88" />
-
 </div>
 
 ---
