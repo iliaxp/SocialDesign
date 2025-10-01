@@ -31,18 +31,18 @@ Modern Instagram-style Android app (UI only) built with Kotlin and Jetpack Compo
 
 ## 🖼️ Screenshots
 
-> Replace with your real screenshots (GIFs recommended). For now, using bundled assets as placeholders.
-
 <table>
   <tr>
     <td align="center"><strong>Home</strong></td>
-    <td align="center"><strong>Top Bar</strong></td>
-    <td align="center"><strong>Icon</strong></td>
+    <td align="center"><strong>Explore</strong></td>
+    <td align="center"><strong>Profile</strong></td>
+    <td align="center"><strong>Activities</strong></td>
   </tr>
   <tr>
-    <td><img src="app/src/main/mipmap-xxxhdpi/appicon.webp" alt="Home" width="240"/></td>
-    <td><img src="app/src/main/res/drawable/topbar.png" alt="Top Bar" width="240"/></td>
-    <td><img src="app/src/main/ic_launcher-playstore.png" alt="Icon" width="240"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c9e7b772-aad2-4167-9f9c-0f3dee0c9a43" alt="Home" width="240"/></td>
+    <td><img src="https://github.com/user-attachments/assets/4453c177-cd5e-4429-9fe3-17f1d138dfc2" alt="Explore" width="240"/></td>
+    <td><img src="https://github.com/user-attachments/assets/56f348c9-28c2-458d-84c3-f79bf3ee179a" alt="Profile" width="240"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a034db34-8deb-424b-af5e-0c8a616600e4" alt="Activities" width="240"/></td>
   </tr>
 </table>
 
